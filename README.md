@@ -14,12 +14,12 @@ apt install git
 
 Repo klonlama
 ```
-git clone https://t.me/endlessarchivist
+git clone https://github.com/Sahmeranorg/sahmeranmarshal
 ```
 
 Klasöre giriş
 ```
-cd filelock
+cd sahmeranmarshal
 ```
 
 Programı çalıştırma
